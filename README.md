@@ -145,6 +145,6 @@ Biedkracht is in actieve ontwikkeling. De analyse-pipeline en response generator
 
 ## Contact
 
-Gebouwd door **Youssef Hajar** — AI consultancy voor Nederlandse MKB.
+Gebouwd door **Y. Hajar** — AI consultancy voor Nederlandse MKB.
 
 Interesse? [yhajar@biedkracht.nl](mailto:yhajar@biedkracht.nl)
